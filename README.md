@@ -1,0 +1,2 @@
+# CubeLite
+Pikku java-projekti
